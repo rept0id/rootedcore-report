@@ -13,7 +13,8 @@ I was inspired by one of [colder-is-better's](https://github.com/colder-is-bette
 # Point of this repo
 
 This is just for nostalgic reasons, its in my plans to writte down a newer version. 
-Still, this version tries its best for a software written by a newbie guy barely knowing what he was doing !
+
+***Still, this version tries its best for a software written by a newbie guy barely knowing what he was doing !***
 
 Special thanks to colder-is-better. That guy teached us many interesting things, including DDOS, hi-jacking of DNS infrastructure, brute-forcing md5 hashes (they were still a thing), reverse engineering of binary code, rooting & jailbraking of machines and most impotantly, that computing is a life-time adventure, all through "total hacker".
 
