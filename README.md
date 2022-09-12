@@ -4,8 +4,8 @@
 
 # History of this repo
 
-Well, this is one of the first software written by me. Story starts back at around 2012, then this, last version, [summer 2014](https://www.dropbox.com/s/eqv3yzgp73pr4u6/html-report-pocket.sh)
-()
+Well, this is one of the first software written by me. Story starts back at around 2012, then this, last version, [summer 2014](https://www.dropbox.com/s/eqv3yzgp73pr4u6/html-report-pocket.sh).
+
 We had formed a team with some colleagues, called [Rootedcore](https://rootedcore.weebly.com/). This is were I searched, using wayback machine, to find my script.
 
 I was inspired by one of [colder-is-better's](https://github.com/colder-is-better), known also as subZraw from "total hacker", book "total linux". There, you were able to find a similar BASH script that reported you, using HTML in order to give a graphical experience, a bunch of info about your machine.
