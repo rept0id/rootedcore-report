@@ -2,9 +2,6 @@
 
 [![Open in Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://open.vscode.dev/rept0id/RootedcoreReport)
 
-![githubImg2](https://raw.githubusercontent.com/rept0id/RootedcoreReport/main/assets/img/RootedcoreRepot1.jpg?raw=true)
-![githubImg2](https://raw.githubusercontent.com/rept0id/RootedcoreReport/main/assets/img/RootedcoreRepot2.jpg?raw=true)
-
 Well, this is one of the first software written by me. Story starts back at around 2012, then this, last version, around 2014. 
 
 We had formed a team with some colleagues, called Rootedcore. This is were I searched, using wayback machine, to find my script.
@@ -19,3 +16,7 @@ Special thanks to colder-is-better. That guy teached us many interesting things,
 Let's keep computing fun !
 
 Also, check this : https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+![githubImg2](https://raw.githubusercontent.com/rept0id/RootedcoreReport/main/assets/img/RootedcoreRepot1.jpg?raw=true)
+
+![githubImg2](https://raw.githubusercontent.com/rept0id/RootedcoreReport/main/assets/img/RootedcoreRepot2.jpg?raw=true)
